@@ -1,4 +1,3 @@
 language: elixir
 elixir: '1.10'
-otp: '20'
-os: 'osx'
+script: mix test
